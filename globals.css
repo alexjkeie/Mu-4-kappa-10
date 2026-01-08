@@ -29,7 +29,9 @@ body {
   margin-bottom: 20px;
 }
 
-.panel p { margin: 5px 0; }
+.panel p {
+  margin: 5px 0;
+}
 
 .button {
   background-color: #8b5cf6;
@@ -44,7 +46,9 @@ body {
   transition: 0.2s;
 }
 
-.button:hover { box-shadow: 0 0 10px #8b5cf6; }
+.button:hover {
+  box-shadow: 0 0 10px #8b5cf6;
+}
 
 .progress-bar {
   width: 100%;
